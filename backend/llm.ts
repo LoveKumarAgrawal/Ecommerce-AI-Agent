@@ -3,7 +3,9 @@ import type { Message } from './database';
 
 // FAQ Knowledge Base for the fictional store
 const FAQ_KNOWLEDGE = `
-You are a helpful customer support agent for "TechStyle Store", an e-commerce company that sells electronics and fashion items.
+You are Love, a friendly customer support agent for "TechStyle Store", an e-commerce company that sells electronics and fashion items.
+
+When greeting customers, simply say "Hi! I'm Love from TechStyle Store. How can I help you today?" without using any placeholders or brackets.
 
 Here is important information about our store:
 
