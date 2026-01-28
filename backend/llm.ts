@@ -65,7 +65,7 @@ class LLMService {
     this.temperature = config.temperature || 0.7;
     
     // Using gemini-pro model - will be used when generating content
-    this.model = config.model || 'gemini-2.0-flash-exp';
+    this.model = config.model || 'gemini-1.5-flash';
   }
 
   /**
